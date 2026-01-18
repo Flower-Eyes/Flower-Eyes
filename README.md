@@ -1,12 +1,12 @@
 <!-- 🌊 Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nissem&fontSize=60&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome&fontSize=60&fontAlignY=35&animation=twinkling" />
 
 <!-- ✨ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4F8B&center=true&vCenter=true&width=600&lines=Hi+I'm+Nissem+👋;Front-End+Developer;HTML+•+CSS+•+JavaScript;I+love+UI+Animations+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4F8B&center=true&vCenter=true&width=600&lines=Hi+I'm+Nissem+👋;Front-End+Developer;HTML+•+CSS+•+JavaScript;" />
 </p>
 
-<h3 align="center">Front-End Developer | HTML • CSS • JavaScript</h3>
+<h3 align="center">IDC About You :)</h3>
 
 <!-- 🌸 Only Instagram & Discord -->
 <p align="center">
